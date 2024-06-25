@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Kamvelihle
 🔭 I’m currently working on <a target="_blank" href="https://github.com/Kamva-pro/BillSplitter.git">BillSplitter</a><br><br>🌱 I’m currently honing my skills in backend development<br><br>👨‍💻 All of my projects are available <a target="_blank" href="https://Kamva-pro.github.io/kamvelihle-portfolio">here</a><br><br>💬 Ask me about Web Development<br><br>📫 How to reach me Kamvelihlefatman@gmail.com<br><br>⚡ Fun fact I can beat you at chess.
 
 
