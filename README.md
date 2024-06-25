@@ -1,7 +1,7 @@
 ## 🖖🏾 Introduction
 
 - Hi, I'm Kamvelihle a skilled developer with over 4 years of programming experience.
-- My expertise spans across mobile and fullstack web development, with a primary focus on Front End Development.
+- My expertise spans across mobile and full-stack development, with a primary focus on Front End Development.
 - I began coding during the 2020 lockdown, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode. 
 - Along the way I have had the honor to work with some amazing companies through my freelancing gigs.
 - So far it's been an amazing journey and I'm thrilled to see where this road takes me next.
