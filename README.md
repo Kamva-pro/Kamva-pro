@@ -1,16 +1,13 @@
-# 💫 Introduction
-<li>Hi, I'm Kamvelihle a skilled developer with over 4 years of programming experience. </li>
-<li>My expertise spans across mobile and fullstack web development, with a primary focus on Front End Development</li>
-<li>I began coding during the 2020 lockdown, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode. </li>
-<li>Along the way I have had the honor to work with some amazing companies through my freelancing gigs</li>
-<li>So far it's been an amazing journey and I'm thrilled to see where this road takes me next</li>
-<li>Feel free to connect with me for any collaborations</li>
+## 🖖🏾 Introduction
+
+- Hi, I'm Kamvelihle a skilled developer with over 4 years of programming experience.
+- My expertise spans across mobile and fullstack web development, with a primary focus on Front End Development.
+- I began coding during the 2020 lockdown, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode. 
+- Along the way I have had the honor to work with some amazing companies through my freelancing gigs.
+- So far it's been an amazing journey and I'm thrilled to see where this road takes me next.
 
 # ⚡ HighLights
 🔭 I’m currently working on <a target="_blank" href="https://github.com/Kamva-pro/BillSplitter.git">BillSplitter</a><br><br>👨‍💻 All of my projects are available <a target="_blank" href="https://Kamva-pro.github.io/kamvelihle-portfolio">here</a>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamvelihle-fatman/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/kamvelihle-fatman) 
 
 ## 👨🏾‍💻 My Tech Stack
 
