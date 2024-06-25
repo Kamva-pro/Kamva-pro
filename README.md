@@ -42,7 +42,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kamva-pro&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+<!--![](https://github-profile-trophy.vercel.app/?username=kamva-pro&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4) -->
 
 <br/>
 <br/>
