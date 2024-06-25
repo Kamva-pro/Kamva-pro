@@ -6,8 +6,9 @@
 - Along the way I have had the honor to work with some amazing companies through my freelancing gigs.
 - So far it's been an amazing journey and I'm thrilled to see where this road takes me next.
 
-# ⚡ HighLights
-🔭 I’m currently working on <a target="_blank" href="https://github.com/Kamva-pro/BillSplitter.git">BillSplitter</a><br><br>👨‍💻 All of my projects are available <a target="_blank" href="https://Kamva-pro.github.io/kamvelihle-portfolio">here</a>
+### ⚡ HighLights
+- 🔭 I’m currently working on <a target="_blank" href="https://github.com/Kamva-pro/BillSplitter.git">BillSplitter</a>
+- 👨‍💻 All of my projects are available <a target="_blank" href="https://Kamva-pro.github.io/kamvelihle-portfolio">here</a>
 
 ## 👨🏾‍💻 My Tech Stack
 
