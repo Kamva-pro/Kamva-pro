@@ -45,6 +45,27 @@
 ![](https://github-profile-trophy.vercel.app/?username=kamva-pro&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
+<br/>
+<hr/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Kamva-pro">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamva-pro&theme=radical&border=7F3FBF&background=0D1117" alt="Botshelo's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kamva-pro">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamva-pro&theme=radical" alt="Botshelo's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Kamva-pro"><img alt="Botshelo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kamva-pro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Botshelo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kamva-pro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
 ### ✍️ Random Dev Quote
@@ -52,5 +73,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kamva-pro&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
