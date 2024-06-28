@@ -7,7 +7,7 @@
 - So far it's been an amazing journey and I'm thrilled to see where this road takes me next.
 
 ### ⚡ HighLights
-- 🔭 I’m currently working on <a target="_blank" href="https://github.com/Kamva-pro/BillSplitter.git">BillSplitter</a>
+- 🔭 I’m currently working on <a target="_blank" href="https://github.com/Kamva-pro/BillSplitter.git">BillSplitter</a> and a <a href="https://github.com/Kamva-pro/chess.git" target="_blank">Chess Game</a>
 - 👨‍💻 All of my projects are available <a target="_blank" href="https://Kamva-pro.github.io/kamvelihle-portfolio">here</a>
 
 ## 👨🏾‍💻 My Tech Stack
