@@ -1,10 +1,10 @@
 ## 🖖🏾 Introduction
 
-- Hi, I'm Kamvelihle a skilled developer with over 4 years of programming experience.
+- Hi, I'm Kamvelihle, a skilled developer with over 4 years of programming experience.
 - My expertise spans across mobile and full-stack development, with a primary focus on Front End Development.
-- I began coding during the 2020 lockdown, evolving from a self-taught developer to pursuing formal education in Software Development at WeThinkCode. 
-- Along the way I have had the honor to work with some amazing companies through my freelancing gigs.
-- So far it's been an amazing journey and I'm thrilled to see where this road takes me next.
+- I started coding during the 2020 lockdown, transitioning from self-taught learning to formal education in Software Development at WeThinkCode.
+- Along the way, I've had the privilege of working with amazing companies through freelance opportunities.
+- It's been an incredible journey so far, and I'm excited to see where this path takes me next.
 
 ### ⚡ HighLights
 - 🔭 I’m currently working on <a target="_blank" href="https://github.com/Kamva-pro/BillSplitter.git">BillSplitter</a> and a <a href="https://github.com/Kamva-pro/chess.git" target="_blank">Chess Game</a>
