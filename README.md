@@ -49,7 +49,7 @@
 <hr/>
 <br/>
 
-![Kamvelihle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamvelihle-fatman&show_icons=true&theme=radical)
+![Kamvelihle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamva-pro&show_icons=true&theme=radical)
 
 
 <p align="center">
