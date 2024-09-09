@@ -49,11 +49,8 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Kamva-pro">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamva-pro&theme=radical&border=7F3FBF&background=0D1117" alt="Botshelo's GitHub streak"/>
-  </a>
-</p>
+![Kamvelihle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamvelihle-fatman&show_icons=true&theme=radical)
+
 
 <p align="center">
   <a href="https://github.com/Kamva-pro">
