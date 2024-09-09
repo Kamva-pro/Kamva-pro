@@ -41,19 +41,21 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
 
-## 🏆 GitHub Trophies
-<!--![](https://github-profile-trophy.vercel.app/?username=kamva-pro&theme=github_dark_dimmed&no-frame=false&no-bg=true&margin-w=4) -->
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamva-pro&theme=radical&border=7F3FBF&background=0D1117" alt="Kamva's GitHub streak"/>
+  </a>
+</p>
 
-<br/>
-<br/>
-<hr/>
-<br/>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kamva-pro&show_icons=true&count_private=true&theme=radical&token=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)
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamva-pro&theme=radical" alt="Kamva's GitHub Contribution"/>
+  </a>
+</p>
 
 <a> 
-    <a href="https://github.com/Kamva-pro"><img alt="Kamva's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kamva-pro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Kamva's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kamva-pro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/alsiam"><img alt="Botshelo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Kamva-pro&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Botshelo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Kamva-pro&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
