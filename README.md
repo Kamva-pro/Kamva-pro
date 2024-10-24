@@ -39,13 +39,13 @@
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BotsheloRamela&theme=radical&border=7F3FBF&background=0D1117" alt="Botshelo's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamva-pro&theme=radical&border=7F3FBF&background=0D1117" alt="Kamva's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/alsiam">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BotsheloRamela&theme=radical" alt="Botshelo's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamva-pro&theme=radical" alt="Kamva's GitHub Contribution"/>
   </a>
 </p>
 
