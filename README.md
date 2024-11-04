@@ -5,6 +5,7 @@
 - I started coding during the 2020 lockdown, transitioning from self-taught learning to formal education in Software Development at WeThinkCode.
 - Along the way, I've had the privilege of working with amazing companies through freelance opportunities.
 - It's been an incredible journey so far, and I'm excited to see where this path takes me next.
+- View my portfolio <a href="https://kamva-pro.github.io/kamvelihle-portfolio" target="_blank">here</a>
 
 ## 👨🏾‍💻 My Tech Stack
 
