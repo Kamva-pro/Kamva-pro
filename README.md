@@ -1,8 +1,7 @@
 ## 🖖🏾 Introduction
 
-- Hi, I'm Kamvelihle, a skilled developer with over 4 years of programming experience.
-- My expertise spans across mobile and full-stack development, with a primary focus on Front End Development.
-- I started coding during the 2020 lockdown, transitioning from self-taught learning to formal education in Software Development at WeThinkCode.
+- Hi, I'm Kamvelihle, a skilled developer passionate about creating innovative applications.
+- I began coding during the 2020 lockdown, transitioning from self-taught learning to formal education in Software Engineering at WeThinkCode.
 - Along the way, I've had the privilege of working with amazing companies through freelance opportunities.
 - It's been an incredible journey so far, and I'm excited to see where this path takes me next.
 - View my portfolio <a href="https://kamva-pro.github.io/kamvelihle-portfolio" target="_blank">here</a>
@@ -37,12 +36,6 @@
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 
-
-<p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamva-pro&theme=radical&border=7F3FBF&background=0D1117" alt="Kamva's GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/alsiam">
