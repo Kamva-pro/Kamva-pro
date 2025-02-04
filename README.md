@@ -1,8 +1,4 @@
-<style>
-   html{
-      text-align: center;
-   }
-</style>
+
 
 # 💫 About Me:
 <ul>
