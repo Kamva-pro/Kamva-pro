@@ -1,3 +1,9 @@
+<style>
+   html{
+      text-align: center;
+   }
+</style>
+
 # 💫 About Me:
 <ul>
    <li>Hi, I'm Kamvelihle, a skilled developer passionate about creating innovative applications.</li>
