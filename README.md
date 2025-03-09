@@ -19,8 +19,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kamva-pro&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kamva-pro&theme=aura_dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamva-pro&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kamva-pro&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&v=12345)
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kamva-pro&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
