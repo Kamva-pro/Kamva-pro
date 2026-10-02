@@ -1,12 +1,5 @@
 
 
-# 💫 About Me:
-<ul>
-   <li>Hi, I'm Kamvelihle, a skilled developer passionate about creating innovative applications.</li>
-   <li>I began coding during the 2020 lockdown, transitioning from self-taught learning to formal education in Software Engineering at WeThinkCode.</li>
-   <li>Along the way, I've had the privilege of working with amazing companies through freelance opportunities.</li>
-   <li>It's been an incredible journey so far, and I'm excited to see where this path takes me next.</li>
-</ul>
 
 
 ## 🌐 Socials:
